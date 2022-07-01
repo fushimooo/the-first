@@ -3,4 +3,4 @@
 
 criando repositorio para desafio de projeto.
 
-adicionando linhas pelo proprio site do githut!!!
+adicionando linhas pelo próprio site do githut!!!
